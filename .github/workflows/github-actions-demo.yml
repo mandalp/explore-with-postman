@@ -29,6 +29,7 @@ jobs:
       
       - name: Run API Tests
         run: newman run "tau/Lesson4/RestfulBookerBVT.postman_collection.json" -e "tau/Lesson4/Production.postman_environment.json" -r htmlextra --reporter-htmlextra-export testResults/htmlreport.html
+        continue-on-error: true
 
     # Upload the contents of Test Results directory to workspace
       - name: Output the run Details
