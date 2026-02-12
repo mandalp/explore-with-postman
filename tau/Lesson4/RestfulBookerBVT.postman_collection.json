@@ -1361,7 +1361,7 @@
 				"type": "text/javascript",
 				"exec": [
 					"// top names of 1996",
-					"var firstNames = [\"Emily\",\"Michael\", \"Jessica\",\"Matthew\", \"Ashley\",",
+					"var firstNames = [\"Emilly\",\"Michael\", \"Jessica\",\"Matthew\", \"Ashley\",",
 					"\"Jacob\",\"Sarah\",\"Christopher\",\"Samantha\",\"Joshua\",",
 					"\"Taylor\",\"Nicholas\",\"Hannah\",\"Tyler\",\"Alexis\",",
 					"\"Brandon\",\"Rachel\",\"Austin\",\"Elizabeth\",\"Andrew\"];",
